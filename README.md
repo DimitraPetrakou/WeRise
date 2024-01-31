@@ -1,6 +1,6 @@
 # WeRise
 
-🌐 A platform created with HTML and CSS (for now) dedicated to connecting and supporting women globally.
+🌐 A website created with HTML and CSS (for now) dedicated to connecting and supporting women globally.
 
 ## Description
 
