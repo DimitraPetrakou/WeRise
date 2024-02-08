@@ -170,4 +170,26 @@ div {font-family:sans-serif;}
     font-size: 60px;
 }
 
+th{
+  width: 10%;
+    font-size: 25px;
+    color: #A4C8DD;
+}
+
+caption{
+    font-size: 40px;
+    color:white;
+    padding: 20px;
+    background-color: #A4C8DD;
+}
+
+table a:link{
+    color:#C265E1;
+}
+
+table a:hover{
+    color:#A4C8DD;
+}
+
+
 
