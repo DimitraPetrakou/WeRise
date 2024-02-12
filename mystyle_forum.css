@@ -147,6 +147,47 @@ div {font-family:sans-serif;}
   padding:20px;
 }
 
+.submit {
+  border: 0;
+  line-height: 2.5;
+  padding: 0 15px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: #A4C8DD;
+  background-image: linear-gradient(to top left,
+                                    #00000033,
+                                    #00000033 30%,
+                                    #00000000);
+  box-shadow: inset 2px 2px 3px ffffff99,
+              inset -2px -2px 3px #00000099;
+  cursor: pointer;
+}
+
+.submit:hover {
+  background-color:#C265E1;
+  
+}
+
+.submit:active {
+  box-shadow: inset -2px -2px 3px #ffffff99,
+              inset 2px 2px 3px #00000099;
+}
+
+.Form_Box{
+  color:#C265E1;
+  padding:50px;
+  font-size: 20px;
+  margin-right: 400px;
+  margin: 1em;
+}
+
+pre {
+    font-family: "Trebuchet MS", Verdana, sans-serif;
+}
+
 
 
 
