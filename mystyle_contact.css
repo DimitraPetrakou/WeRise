@@ -142,4 +142,95 @@ div {font-family:sans-serif;}
      background:#C265E1;
 }
 
+.contact h2{
+    background-color: #A4C8DD;
+    color:white;
+    padding:20px;
+}
+
+.forma{
+    color:#C265E1;
+    padding:40px;
+    font-size: 20px;
+    margin-right: 300px;
+}
+
+#name{
+    width:400px;
+    height:30px;
+    color:#A4C8DD;
+    font-size:20px;
+} 
+
+#mail{
+    width:400px;
+    height:30px;
+    color:#A4C8DD;
+    font-size:20px;
+} 
+
+#message{
+  resize: none;
+  color:#C265E1;
+  padding:50px;
+  font-size: 20px;
+  margin-right: 400px;
+ 
+
+} 
+
+#send{
+    width:150px;
+    height:50px;
+    background-color:#A4C8DD;
+    color:white;
+    font-size:20px;
+    cursor: pointer;
+}
+
+#send:hover{
+    opacity:0.7;
+}
+
+.img1{
+    margin-top: -30%;
+    margin-left: 65%;
+    width:400px;
+  
+    
+}
+
+.submit {
+  border: 0;
+  line-height: 2.5;
+  padding: 0 15px;
+  font-size: 1rem;
+  text-align: center;
+  color: #fff;
+  text-shadow: 1px 1px 1px #000;
+  border-radius: 10px;
+  background-color: #A4C8DD;
+  background-image: linear-gradient(to top left,
+                                    #00000033,
+                                    #00000033 30%,
+                                    #00000000);
+  box-shadow: inset 2px 2px 3px ffffff99,
+              inset -2px -2px 3px #00000099;
+  cursor: pointer;
+  margin-left: 48%;
+  margin-top: -10%%;
+  
+}
+
+.submit:hover {
+  background-color:#C265E1;
+  
+}
+
+.submit:active {
+  box-shadow: inset -2px -2px 3px #ffffff99,
+              inset 2px 2px 3px #00000099;
+}
+
+
 
